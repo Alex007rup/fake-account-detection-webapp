@@ -1,6 +1,6 @@
 # 🚀 fake-account-detection-webapp
 
-![Project Banner](https://drive.google.com/file/d/1vjoob33ETHELa8Gi9g-UPBzertOOg-Kx/view) <!-- You can replace this link with your project image/banner -->
+![Project Banner](https://scontent.fdel25-4.fna.fbcdn.net/v/t39.30808-6/316117998_1194226851498576_3054773639465267180_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=7qgh7pN-lQEQ7kNvgEQyokB&_nc_ht=scontent.fdel25-4.fna&_nc_gid=AOxMRDOsWji5K8euGs87Pai&oh=00_AYASGFGrE7hgI3Ys9cawm2hGamzALVU8rWGhZk1deOMKLQ&oe=66E3EE68) <!-- You can replace this link with your project image/banner -->
 
 ## ✨ Description
 
