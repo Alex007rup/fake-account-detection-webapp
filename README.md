@@ -18,6 +18,10 @@ Fake Account Detector helps ensure authenticity and trust in your social network
 ## 🛠️ Technologies Used
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-007ACC?style=flat-square&logo=python&logoColor=white)
 
 ## 🛠️ Installation
 
