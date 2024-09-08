@@ -1,6 +1,6 @@
 # 🚀 fake-account-detection-webapp
 
-![Project Banner](https://via.placeholder.com/1200x400.png) <!-- You can replace this link with your project image/banner -->
+![Project Banner](https://ibb.co/nkmX27G) <!-- You can replace this link with your project image/banner -->
 
 ## ✨ Description
 
