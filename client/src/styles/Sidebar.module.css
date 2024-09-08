@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Signika+Negative:wght@300..700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Signika Negative", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.sidebar {
+  width: 300px;
+  height: 100vh;
+  padding: 0 10px;
+  background-color: #162029;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  display: flex;
+  font-size: 24px;
+  padding: 20px;
+  position: relative;
+  gap: 10px;
+
+  p {
+    font-size: 15px;
+  }
+
+  .logo {
+    align-self: center;
+    height: 35px;
+  }
+
+  div > * {
+    margin: 0;
+  }
+}
+
+.menu {
+  list-style-type: none;
+  padding: 0 10px;
+  margin: 0;
+}
+
+.menuItem {
+  margin: 10px 0;
+  padding: 8px 15px;
+  cursor: pointer;
+  border-radius: 10px;
+  text-decoration: none !important;
+  transition: background-color 0.3s;
+  list-style: none;
+  color: white;
+  display: block;
+}
+
+.menuItem:hover {
+  background-color: #34495e;
+  border-radius: 10px;
+}
+
+.active .menuItem {
+  background-color: #34495e;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.inactive {
+  text-decoration: none;
+  font-weight: bold;
+  background-color: red;
+}
+.content {
+  position: absolute;
+  margin-left: 250px;
+  padding: 20px;
+}

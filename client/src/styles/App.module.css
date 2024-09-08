@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: #162029;
+}
+.container {
+  display: flex;
+}
+
+.sidebar {
+  width: 300px;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+  color: #fff;
+}

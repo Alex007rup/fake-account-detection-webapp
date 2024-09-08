@@ -1,0 +1,57 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 0 30px;
+}
+
+.innerDiv {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 0 100px;
+}
+.innerDiv > * {
+  border-radius: 8px;
+  margin: 3px 0;
+}
+input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 10px;
+  font-size: 16px;
+  outline: none;
+  width: 400px;
+}
+
+select {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  width: 418px;
+}
+
+select option {
+  font-size: 18px;
+}
+
+select:focus {
+  outline: none;
+}
+
+.btn {
+  width: 418px;
+  font-size: 22px;
+  padding: 10px;
+  background-color: #34495e;
+  border: none;
+  color: #fff;
+  transition: background-color 0.25s ease-in-out;
+}
+.btn:hover {
+  background-color: rgb(34, 121, 235);
+  transition: background-color 0.25s ease-in-out;
+}
