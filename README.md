@@ -29,7 +29,7 @@ Follow these steps to install and set up the project on your local machine.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/yourproject.git
+https://github.com/Alex007rup/fake-account-detection-webapp.git
 
 # Navigate into the project directory
 cd yourproject
@@ -38,4 +38,4 @@ cd yourproject
 npm install
 
 # Start the development server
-npm start
+npm run dev
