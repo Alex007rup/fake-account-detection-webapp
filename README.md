@@ -15,6 +15,10 @@ Fake Account Detector helps ensure authenticity and trust in your social network
 - 🔐 Privacy-Focused: Ensures user data security throughout the detection process.
 - 💡 User-Friendly Interface: Simple and intuitive UI for seamless user experience.
 
+## 🛠️ Technologies Used
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 ## 🛠️ Installation
 
 Follow these steps to install and set up the project on your local machine.
