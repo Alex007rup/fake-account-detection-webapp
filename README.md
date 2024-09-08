@@ -1,4 +1,4 @@
-# 🚀 fake-account-detection-webapp
+# 🚀 Fake Account Detector Webapp
 
 ![Project Banner](https://scontent.fdel25-3.fna.fbcdn.net/v/t39.30808-6/459070298_1591931768394747_8845285417220835104_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=E-_XagXCbEIQ7kNvgHB2w_u&_nc_ht=scontent.fdel25-3.fna&oh=00_AYAt7nmm8lIDqcVOHno-0g3g0RdO3ns6VhytYQOncs0erQ&oe=66E40B74) <!-- You can replace this link with your project image/banner -->
 
